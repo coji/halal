@@ -1,5 +1,5 @@
 import { Box, Image, Text, Link } from '@chakra-ui/react'
-import { Product } from '../interfaces/product'
+import { Product } from '@/interfaces/product'
 
 interface ProductListItemProps {
   item: Product
