@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "category": "主食",
+    "title": "キユーピー　70g おかゆ（だし仕立て）",
+    "maker": "キユーピー",
+    "imageUrl": "//img.omni7.jp/co/productimage/0006/product/00/582022100/image/582022100_main_l.jpg",
+    "price": "130",
+    "moonage": "5・6ヶ月",
+    "materials": "米（国産）、こんぶだし、コーンスターチ、かつお節",
+    "review_score": "0",
+    "review_reviewCount": "0",
+    "url": "https://akachan.omni7.jp/detail/582022100"
+  },
+  {
+    "id": "2",
+    "category": "おかず",
+    "title": "キユーピー　70g かぼちゃとさつまいも（うらごし）",
+    "maker": "キユーピー",
+    "imageUrl": "//img.omni7.jp/co/productimage/0006/product/00/582021700/image/582021700_main_l.jpg",
+    "price": "130",
+    "moonage": "5・6ヶ月",
+    "materials": "野菜（さつまいも、かぼちゃ）、てんさい糖",
+    "review_score": "0",
+    "review_reviewCount": "0",
+    "url": "https://akachan.omni7.jp/detail/582021700"
+  },
+  {
+    "id": "3",
+    "category": "デザート",
+    "title": "キユーピー　70g ももと白ぶどう",
+    "maker": "キユーピー",
+    "imageUrl": "//img.omni7.jp/co/productimage/0006/product/00/615009600/image/615009600_main_l.jpg",
+    "price": "130",
+    "moonage": "5・6ヶ月",
+    "materials": "ぶどう果汁、もも、りんご、砂糖、りんご果汁、コーンスターチ、寒天、ビタミンＣ、クエン酸",
+    "review_score": "0",
+    "review_reviewCount": "0",
+    "url": "https://akachan.omni7.jp/detail/615009600"
+  },
+  {
+    "id": "4",
+    "category": "おかず",
+    "title": "キユーピー　70g にんじんとポテト（うらごし）",
+    "maker": "キユーピー",
+    "imageUrl": "//img.omni7.jp/co/productimage/0006/product/00/582021800/image/582021800_main_l.jpg",
+    "price": "130",
+    "moonage": "5・6ヶ月",
+    "materials": "にんじん、乾燥マッシュポテト、てんさい糖、コーンスターチ",
+    "review_score": "46",
+    "review_reviewCount": "10",
+    "url": "https://akachan.omni7.jp/detail/582021800"
+  },
+  {
+    "id": "5",
+    "category": "主食",
+    "title": "キユーピー　70g 北海道産コーン（うらごし）",
+    "maker": "キユーピー",
+    "imageUrl": "//img.omni7.jp/co/productimage/0006/product/00/582021900/image/582021900_main_l.jpg",
+    "price": "130",
+    "moonage": "5・6ヶ月",
+    "materials": "とうもろこし（遺伝子組換えでない）、コーンスターチ、砂糖、食塩、ビタミンＣ",
+    "review_score": "45",
+    "review_reviewCount": "25",
+    "url": "https://akachan.omni7.jp/detail/582021900"
+  }
+]
