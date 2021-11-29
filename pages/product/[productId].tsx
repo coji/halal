@@ -25,7 +25,7 @@ const ProductPage: NextPage<Props> = ({ product }) => {
           </Link>
           <Image src={product.imageUrl} alt="product image" />
           <Text>{product.category}</Text>
-          <Text>{product.category}</Text>
+          <Text>{product.moonage}</Text>
         </Box>
       </Container>
     </>
