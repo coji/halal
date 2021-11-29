@@ -1,5 +1,5 @@
 import type { NextPage, GetStaticPaths, GetStaticProps } from 'next'
-import { Container, Heading, Box, Text, Link } from '@chakra-ui/react'
+import { Container, Heading, Box, Text, Link, Image } from '@chakra-ui/react'
 import products from '@/public/products.json'
 import type { Product } from '@/interfaces/product'
 
@@ -13,18 +13,22 @@ const ProductPage: NextPage<Props> = ({ product }) => {
   }
 
   return (
-    <Container maxW="container.xl">
-      <Heading padding="4" color="gray.800" bgColor="gray.50">
+    <>
+      <Heading padding="4" color="gray.600" bgColor="gray.100">
         Halal Baby Foods
       </Heading>
-      <Box>
-        <Link href={product.url}>
-          <Text>{product.title}</Text>
-        </Link>
-        <Text>{product.category}</Text>
-        <Text>{product.category}</Text>
-      </Box>
-    </Container>
+
+      <Container maxW="container.xl">
+        <Box>
+          <Link href={product.url}>
+            <Text>{product.title}</Text>
+          </Link>
+          <Image src={product.imageUrl} alt="product image" />
+          <Text>{product.category}</Text>
+          <Text>{product.category}</Text>
+        </Box>
+      </Container>
+    </>
   )
 }
 export default ProductPage
